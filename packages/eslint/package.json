@@ -1,9 +1,18 @@
 {
   "name": "@lotusengine/eslint-config-lotusengine",
-  "description": "LotusEngine ESLint config",
   "version": "1.0.0",
+  "description": "LotusEngine ESLint config",
+  "homepage": "https://github.com/lotusengine/config#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lotusengine/config.git"
+  },
+  "license": "Apache-2.0",
   "author": "LotusEngine (https://lotusengine.com/)",
-  "devDependencies": {},
+  "main": "index.json",
+  "files": [
+    "/index.json"
+  ],
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^4.29.2",
     "@typescript-eslint/parser": "^4.29.2",
@@ -12,17 +21,8 @@
     "eslint-plugin-jest": "^24.4.0",
     "eslint-plugin-unused-imports": "^1.1.4"
   },
+  "devDependencies": {},
   "publishConfig": {
     "access": "public"
-  },
-  "homepage": "https://github.com/lotusengine/config#readme",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lotusengine/config.git"
-  },
-  "files": [
-    "/index.json"
-  ],
-  "license": "Apache-2.0",
-  "main": "index.json"
+  }
 }
