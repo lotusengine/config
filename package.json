@@ -1,9 +1,12 @@
 {
   "name": "@lotusengine/config",
   "version": "1.0.0",
-  "private": false,
+  "private": true,
   "license": "Apache-2.0",
+  "workspaces": [
+    "packages/*"
+  ],
   "devDependencies": {
-    "lerna": "^3.22.1"
+    "@changesets/cli": "^2.17.0"
   }
 }
