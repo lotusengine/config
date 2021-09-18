@@ -9,7 +9,11 @@
   },
   "license": "MIT",
   "author": "LotusEngine (https://lotusengine.com/)",
-  "main": "tsconfig.json",
+  "sideEffects": false,
+  "exports": {
+    "import": "./tsconfig.json",
+    "require": "./tsconfig.json"
+  },
   "files": [
     "tsconfig.json",
     "README.md",

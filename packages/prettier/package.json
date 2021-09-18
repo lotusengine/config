@@ -9,6 +9,11 @@
   },
   "license": "MIT",
   "author": "LotusEngine (https://lotusengine.com/)",
+  "sideEffects": false,
+  "exports": {
+    "import": "./index.json",
+    "require": "./index.json"
+  },
   "main": "index.json",
   "files": [
     "index.json",
