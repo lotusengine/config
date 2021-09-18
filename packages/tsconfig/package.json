@@ -11,11 +11,11 @@
   "author": "LotusEngine (https://lotusengine.com/)",
   "sideEffects": false,
   "exports": {
-    "import": "./tsconfig.json",
-    "require": "./tsconfig.json"
+    "import": "./index.json",
+    "require": "./index.json"
   },
   "files": [
-    "tsconfig.json",
+    "index.json",
     "README.md",
     "package.json",
     "LICENSE"
