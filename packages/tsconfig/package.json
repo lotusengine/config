@@ -1,6 +1,6 @@
 {
   "name": "@lotusengine/tsconfig",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "LotusEngine TypeScript config",
   "homepage": "https://github.com/lotusengine/config#readme",
   "repository": {
