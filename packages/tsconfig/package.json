@@ -1,6 +1,6 @@
 {
   "name": "@lotusengine/tsconfig",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "LotusEngine TypeScript config",
   "homepage": "https://github.com/lotusengine/config#readme",
   "repository": {
@@ -13,9 +13,6 @@
   "files": [
     "/index.json"
   ],
-  "dependencies": {
-   
-  },
   "publishConfig": {
     "access": "public"
   }
