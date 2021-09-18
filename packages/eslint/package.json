@@ -11,7 +11,10 @@
   "author": "LotusEngine (https://lotusengine.com/)",
   "main": "index.json",
   "files": [
-    "/index.json"
+    "index.json",
+    "README.md",
+    "package.json",
+    "LICENSE"
   ],
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^4.29.2",

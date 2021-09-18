@@ -11,6 +11,6 @@
     "rimraf": "^3.0.2"
   },
   "scripts": {
-    "publish": "lerna publish"
+    "publish": "lerna publish --conventional-commits"
   }
 }

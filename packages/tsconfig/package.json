@@ -9,9 +9,12 @@
   },
   "license": "MIT",
   "author": "LotusEngine (https://lotusengine.com/)",
-  "main": "index.json",
+  "main": "tsconfig.json",
   "files": [
-    "/index.json"
+    "tsconfig.json",
+    "README.md",
+    "package.json",
+    "LICENSE"
   ],
   "publishConfig": {
     "access": "public"
