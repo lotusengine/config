@@ -1,4 +1,4 @@
 LotusEngine config monorepo
 ===========================
 
-Prettier and ESLint common rules.
+Prettier, ESLint and TypeScript common rules.

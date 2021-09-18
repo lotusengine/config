@@ -7,7 +7,7 @@
     "type": "git",
     "url": "git+https://github.com/lotusengine/config.git"
   },
-  "license": "Apache-2.0",
+  "license": "MIT",
   "author": "LotusEngine (https://lotusengine.com/)",
   "main": "index.json",
   "files": [
