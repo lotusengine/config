@@ -32,5 +32,9 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "355b7d702c5adf55e64e960289b25c2aedb76084"
+  "gitHead": "355b7d702c5adf55e64e960289b25c2aedb76084",
+  "devDependencies": {
+    "eslint-plugin-react": "^7.26.1",
+    "eslint-plugin-react-hooks": "^4.2.0"
+  }
 }
