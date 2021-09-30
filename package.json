@@ -6,10 +6,11 @@
   "workspaces": [
     "packages/*"
   ],
+  "scripts": {
+    "package": "lerna publish --conventional-commits"
+  },
   "devDependencies": {
     "lerna": "^4.0.0",
     "rimraf": "^3.0.2"
-  },
-  "scripts": {
   }
 }
