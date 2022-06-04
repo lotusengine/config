@@ -9,9 +9,7 @@
   "extends": [
     "eslint:recommended",
     "plugin:@typescript-eslint/recommended",
-    "prettier",
-    "plugin:react/recommended",
-    "plugin:react-hooks/recommended"
+    "prettier"
   ],
   "rules": {
     "unused-imports/no-unused-imports": "warn",
@@ -24,10 +22,9 @@
     "jest/consistent-test-it": ["error"]
   },
   "env": {
-    "browser": true,
+    "browser": false,
     "node": true,
     "es6": true
   },
-  "settings": {
-  }
+  "settings": {}
 }
