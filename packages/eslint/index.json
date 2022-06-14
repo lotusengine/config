@@ -15,6 +15,7 @@
     "@typescript-eslint/ban-types": "off",
     "unused-imports/no-unused-imports": "warn",
     "unused-imports/no-unused-vars": "off",
+    "@typescript-eslint/no-non-null-assertion": "off",
     "@typescript-eslint/no-unused-vars": "off",
     "@typescript-eslint/no-explicit-any": "off",
     "@typescript-eslint/explicit-module-boundary-types": "off",
