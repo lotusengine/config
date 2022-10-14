@@ -1,13 +1,11 @@
 # Change Log
 
-## 2.0.0
-
-### Major Changes
-
-- Remove Jest
-
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [2.0.1](https://github.com/lotusengine/config/compare/@lotusengine/eslint-config-lotusengine@2.0.0...@lotusengine/eslint-config-lotusengine@2.0.1) (2022-10-14)
+
+**Note:** Version bump only for package @lotusengine/eslint-config-lotusengine
 
 ## [1.1.9](https://github.com/lotusengine/config/compare/@lotusengine/eslint-config-lotusengine@1.1.8...@lotusengine/eslint-config-lotusengine@1.1.9) (2022-06-14)
 
