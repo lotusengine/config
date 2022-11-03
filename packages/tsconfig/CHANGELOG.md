@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.7](https://github.com/lotusengine/config/compare/@lotusengine/tsconfig@1.1.6...@lotusengine/tsconfig@1.1.7) (2022-11-03)
+
+**Note:** Version bump only for package @lotusengine/tsconfig
+
+
+
+
+
 ## [1.1.6](https://github.com/lotusengine/config/compare/@lotusengine/tsconfig@1.1.5...@lotusengine/tsconfig@1.1.6) (2021-09-19)
 
 **Note:** Version bump only for package @lotusengine/tsconfig
