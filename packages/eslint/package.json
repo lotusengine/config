@@ -1,6 +1,6 @@
 {
   "name": "@lotusengine/eslint-config-lotusengine",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "LotusEngine ESLint config",
   "homepage": "https://github.com/lotusengine/config#readme",
   "repository": {
