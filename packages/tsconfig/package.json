@@ -7,6 +7,7 @@
     "type": "git",
     "url": "git+https://github.com/lotusengine/config.git"
   },
+  "type": "module",
   "license": "MIT",
   "author": "LotusEngine (https://lotusengine.com/)",
   "sideEffects": false,
