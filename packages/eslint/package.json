@@ -1,6 +1,6 @@
 {
   "name": "@lotusengine/eslint-config-lotusengine",
-  "version": "2.0.5",
+  "version": "2.2.1",
   "description": "LotusEngine ESLint config",
   "homepage": "https://github.com/lotusengine/config#readme",
   "repository": {
@@ -33,5 +33,8 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "62547f8b85ed539589892958178fc3986bb9f8b2"
+  "gitHead": "62547f8b85ed539589892958178fc3986bb9f8b2",
+  "devDependencies": {
+    "lerna": "^6.0.3"
+  }
 }
