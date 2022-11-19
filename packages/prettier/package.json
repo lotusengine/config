@@ -23,7 +23,7 @@
     "LICENSE"
   ],
   "dependencies": {
-    "prettier": "^2.1.1"
+    "prettier": "^2.7.1"
   },
   "publishConfig": {
     "access": "public"
