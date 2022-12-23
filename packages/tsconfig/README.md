@@ -8,20 +8,20 @@ Shared TSConfig rules
 You can use the following commands to install this package:
 
 ```sh
-npm install @lotusengine/ts-config --save-dev
-yarn add @lotusengine/ts-config -D
+npm install @lotusengine/tsconfig --save-dev
+yarn add @lotusengine/tsconfig -D
 ```
 
 ---
 
 ## Usage
 
-You can use `@lotusengine/ts-config`'s
-[`tsconfig.json`](https://github.com/lotusengine/config/packages/ts-config/tsconfig.json) by extending it in yours:
+You can use `@lotusengine/tsconfig`'s
+[`tsconfig.json`](https://github.com/lotusengine/config/tree/master/packages/tsconfig/tsconfig.json) by extending it in yours:
 
 ```json
 {
-	"extends": "@lotusengine/ts-config"
+  "extends": "@lotusengine/tsconfig"
 }
 ```
 
